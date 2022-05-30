@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-naef/)
 [![Website](https://img.shields.io/badge/Website-181717?style=flat&logo=GitHub&logoColor=white)](https://naefjo.github.io/)
 
-- 👨‍🎓 I'm currently enrolled in the Robotics, Systems and Control Master's Programme at ETH Zürich
+- 👨‍🎓 I'm currently enrolled in the _Robotics, Systems and Control_ Master's Programme at ETH Zürich
 - 🌱 I’m currently learning about machine learning and system identification from time series data
 - 👔 I'd love to get involved in your open source project
 - 💬 Ask me about drones and control systems (Although I'll might nerd out... 😁)

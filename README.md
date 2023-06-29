@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-181717?style=flat&logo=GitHub&logoColor=white)](https://naefjo.github.io/)
 
 - 👨‍🎓 I'm currently enrolled in the _Robotics, Systems and Control_ Master's Programme at ETH Zürich
-- 🌱 I’m currently learning about machine learning and system identification from time series data
+- 🌱 I’m currently learning about model predictive control and Reinforcement Learning strategies for optimal control
 - 👔 I'd love to get involved in your open source project
 - 💬 Ask me about drones and control systems (Although I'll might nerd out... 😁)
 

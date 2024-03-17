@@ -5,7 +5,6 @@
 
 - 👨‍🎓 I'm currently enrolled in the _Robotics, Systems and Control_ Master's Programme at ETH Zürich
 - 🌱 I’m currently learning about model predictive control and Reinforcement Learning strategies for optimal control
-- 👔 I'd love to get involved in your open source project
 - 💬 Ask me about drones and control systems (Although I'll might nerd out... 😁)
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):

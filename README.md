@@ -2,10 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-naef/)
 
-- 👨‍🎓 I'm currently enrolled in the _Robotics, Systems and Control_ Master's Programme at ETH Zürich
-- 🌱 Interested in MPC, RL and other learning based strategies strategies for optimal control
+- 👨‍🎓 I'm a graduate in _Robotics, Systems and Control_ from ETH Zürich
+- 🌱 Interested in RL, Predictive Control, and other learning based strategies for optimal control
 - 🤖 Participating in ETH Zurich's Robocup Team [Nomadz](https://nomadz.ethz.ch)
-- 💬 Ask me about robotics and optimal control (although I'll might nerd out... 😁)
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
